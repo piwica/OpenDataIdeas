@@ -1,0 +1,8 @@
+id;nombre;tipo;calle;altura;calle_2;direccion;administra;dom_mapa;lon;lat
+1;Centro Verde Barracas;Fijo;Herrera;2124;;2124 HERRERA;Cooperativa El Amanecer de los Cartoneros;Herrera 2124;-58.374;-34.6509
+2;Centro Verde Villa Pueyrredón;Fijo;Av. Roosevelt;5890;;5890 ROOSEVELT FRANKLIN D. AV.;Cooperativa El Álamo;Av. Franklin Roosevelt 5890;-58.496;-34.5787
+3;Centro Verde Chilavert;Fijo;Chilavert;2745;;2745 CHILAVERT, MARTINIANO, CORONEL;Cooperativa 30 de Noviembre;Cnel. Martiniano Chilavert 2745;-58.4398;-34.6547
+4;Centro Verde Soldati;Fijo;Barros Pazos;3701;;3701 BARROS PAZOS, JOSE;Cooperativas Del Oeste y Reciclando Sueños;Jose Barros Pazos 3701;-58.4517;-34.6635
+5;Centro Verde Varela;Fijo;Varela;2505;;2505 VARELA AV.;Cooperativa Recuperadores Urbanos del Oeste;Av. Varela 2505;-58.4417;-34.6533
+6;Centro Verde Retiro Norte;Fijo;Mujica;0;Salguero;SALGUERO, JERONIMO & PADRE CARLOS MUJICA;Cooperativa El Ceibo;Jeronimo Salguero y Padre C. Mujica;-58.3951;-34.5762
+7;Centro Verde Nuñez;Fijo;Gral. Paz;0;Cantilo;PAZ, GRAL. AV. & CANTILO, Int.;Cooperativa Las Madreselvas y El Amanecer de los Cartoneros;Int. Cantilo y Av. Gral. Paz;-58.462;-34.534

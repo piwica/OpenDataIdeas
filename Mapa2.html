@@ -12,9 +12,8 @@
         }
         #panel {
             position: absolute;
-            top: 5px;
-            left: 50%;
-            margin-left: -180px;
+            top: 25px;
+            right: 1%;
             z-index: 5;
             background-color: #fff;
             padding: 5px;
@@ -31,7 +30,7 @@
         function initialize() {
             var mapOptions = {
                 zoom: 13,
-                center: new google.maps.LatLng(-34.6, -58.5)
+                center: new google.maps.LatLng(-34.6, -58.47)
             }
             map = new google.maps.Map(document.getElementById('map-canvas'),
                     mapOptions);
@@ -44,9 +43,16 @@
 </head>
 <body>
 <div id="panel">
+    <h3>Emergencias</h3>
     <input id="emergencias" type="checkbox" name="emergencias" value="emergencias" onchange="emergenciasHandle()">Emergencias</input><br>
+    <h3>Salud</h3>
     <input id="hospital" type="checkbox" name="hospital" value="hospital" onchange="hospitalHandle()">Hospitales</input><br>
+    <h3>Transporte</h3>
     <input id="metrobus" type="checkbox" name="metrobus" value="metrobus" onchange="metroBusHandle()">MetroBus</input><br>
+    <h3>Vida Sana</h3>
+    <input id="zonasverdes" type="checkbox" name="zonasverdes" value="zonasverdes" onchange="zonasVerdesHandle()">Zonas Verdes</input><br>
+    <input id="centrosverdes" type="checkbox" name="centrosverdes" value="centrosverdes" onchange="centrosVerdesHandle()">Centros Verdes</input><br>
+    <input id="ciclovias" type="checkbox" name="ciclovias" value="ciclovias" onchange="cicloviasHandle()">Ciclovias</input><br>
 </div>
 <div id="map-canvas"></div>
 </body>

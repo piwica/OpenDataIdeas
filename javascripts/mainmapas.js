@@ -7,6 +7,9 @@
 var firemarkers = [];
 var hospitalmarkers = [];
 var metrobusmarkers = [];
+var zonasverdesmarkers = [];
+var centrosverdesmarkers = [];
+var ciclovias  = [];
 function emergenciasHandle() {
     var isChecked = $('#emergencias').is(":checked");
     if (isChecked) {
@@ -25,7 +28,7 @@ function hospitalHandle() {
     if (isChecked) {
         leerArchivoHospital();
     } else {
-        for (var i = 0; i < firemarkers.length; i++) {
+        for (var i = 0; i < hospitalmarkers.length; i++) {
             hospitalmarkers[i].setMap(null);
         }
         hospitalmarkers = [];
@@ -38,12 +41,69 @@ function metroBusHandle() {
     if (isChecked) {
         leerArchivoMetroBus();
     } else {
-        for (var i = 0; i < firemarkers.length; i++) {
+        for (var i = 0; i < metrobusmarkers.length; i++) {
             metrobusmarkers[i].setMap(null);
         }
         metrobusmarkers = [];
     }
 
+}
+
+function zonasVerdesHandle() {
+    var isChecked = $('#zonasverdes').is(":checked");
+    if (isChecked) {
+        leerArchivoZonasVerdes();
+    } else {
+        for (var i = 0; i < zonasverdesmarkers.length; i++) {
+            zonasverdesmarkers[i].setMap(null);
+        }
+        zonasverdesmarkers = [];
+    }
+
+}
+
+function centrosVerdesHandle() {
+    var isChecked = $('#centrosverdes').is(":checked");
+    if (isChecked) {
+        leerArchivoCentrosVerdes();
+    } else {
+        for (var i = 0; i < centrosverdesmarkers.length; i++) {
+            centrosverdesmarkers[i].setMap(null);
+        }
+        centrosverdesmarkers = [];
+    }
+
+}
+
+function cicloviasHandle() {
+    var isChecked = $('#ciclovias').is(":checked");
+    if (isChecked) {
+        leerArchivoCiclovias();
+    } else {
+        for (var i = 0; i < ciclovias.length; i++) {
+            ciclovias[i].setMap(null);
+        }
+        ciclovias = [];
+    }
+
+}
+
+function leerArchivoCentrosVerdes(){
+    $.ajax({
+        type: "GET",
+        url: "datos/centros-verdes.csv",
+        dataType: "text",
+        success: function(data) {processDataCentrosVerdes(data);}
+    });
+}
+
+function leerArchivoZonasVerdes(){
+    $.ajax({
+        type: "GET",
+        url: "datos/arbolado-espacios-verdes.csv",
+        dataType: "text",
+        success: function(data) {processDataZonasVerdes(data);}
+    });
 }
 
 function leerArchivoMetroBus(){
@@ -71,6 +131,67 @@ function leerArchivoEmergencias(){
         dataType: "text",
         success: function(data) {processDataEmergencias(data);}
     });
+}
+
+function leerArchivoCiclovias(){
+    $.ajax({
+        type: "GET",
+        url: "datos/ciclovias.csv",
+        dataType: "text",
+        success: function(data) {processDataCiclovias(data);}
+    });
+}
+
+function processDataCiclovias(allText) {
+    var allTextLines = allText.split(/\r\n|\n/);
+    for (var i=1; i<allTextLines.length; i++) {
+        var data = allTextLines[i].split(';');
+        var geojson = $.parseJSON(data[14]);
+        var mypath = new Array();
+        $.each(geojson.coordinates[0], function(index, record) {
+            mypath.push(new google.maps.LatLng(record[1], record[0]));
+        });
+        var polyline = new google.maps.Polyline({
+            path: mypath,
+            strokeColor: '#ff0000',
+            strokeOpacity: 1.0,
+            strokeWeight: 3
+        });
+        polyline.setMap(map);
+        ciclovias.push(polyline);
+    }
+}
+
+function processDataCentrosVerdes(allText) {
+    var allTextLines = allText.split(/\r\n|\n/);
+    var image = 'images/centroverde.png';
+    for (var i=1; i<allTextLines.length; i++) {
+        var data = allTextLines[i].split(';');
+
+        var myLatLng = new google.maps.LatLng(data[10], data[9]);
+        var marker = new google.maps.Marker({
+            position: myLatLng,
+            map: map,
+            icon: image
+        });
+        centrosverdesmarkers.push(marker);
+    }
+}
+
+function processDataZonasVerdes(allText) {
+    var allTextLines = allText.split(/\r\n|\n/);
+    var image = 'images/arbol.png';
+    for (var i=1; i<allTextLines.length; i++) {
+        var data = allTextLines[i].split(';');
+
+        var myLatLng = new google.maps.LatLng(data[15], data[16]);
+        var marker = new google.maps.Marker({
+            position: myLatLng,
+            map: map,
+            icon: image
+        });
+        zonasverdesmarkers.push(marker);
+    }
 }
 
 function processDataMetrobus(allText) {
