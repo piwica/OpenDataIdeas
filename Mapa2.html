@@ -23,6 +23,7 @@
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
     <script src="javascripts/jquery.min.js"></script>
     <script src="javascripts/mainmapas.js"></script>
+    <script src="javascripts/StyledMarker.js" type="text/javascript"></script>
     <script>
         // This example adds a marker to indicate the position
         // of Bondi Beach in Sydney, Australia
@@ -43,16 +44,21 @@
 </head>
 <body>
 <div id="panel">
-    <h3>Emergencias</h3>
+    <h3>Seguridad</h3>
     <input id="emergencias" type="checkbox" name="emergencias" value="emergencias" onchange="emergenciasHandle()">Emergencias</input><br>
-    <h3>Salud</h3>
+    <input id="comisarias" type="checkbox" name="comisarias" value="comisarias" onchange="comisariasHandle()">Comisarias</input><br>
+    <h3>Servicios</h3>
     <input id="hospital" type="checkbox" name="hospital" value="hospital" onchange="hospitalHandle()">Hospitales</input><br>
+    <input id="cultura" type="checkbox" name="cultura" value="cultura" onchange="culturaHandle()">Cultura</input><br>
+    <input id="educacion" type="checkbox" name="educacion" value="educacion" onchange="educacionHandle()">Estable. Educativos</input><br>
     <h3>Transporte</h3>
     <input id="metrobus" type="checkbox" name="metrobus" value="metrobus" onchange="metroBusHandle()">MetroBus</input><br>
+    <input id="subte" type="checkbox" name="subte" value="subte" onchange="subteHandle()">Subte</input><br>
     <h3>Vida Sana</h3>
     <input id="zonasverdes" type="checkbox" name="zonasverdes" value="zonasverdes" onchange="zonasVerdesHandle()">Zonas Verdes</input><br>
     <input id="centrosverdes" type="checkbox" name="centrosverdes" value="centrosverdes" onchange="centrosVerdesHandle()">Centros Verdes</input><br>
     <input id="ciclovias" type="checkbox" name="ciclovias" value="ciclovias" onchange="cicloviasHandle()">Ciclovias</input><br>
+    <input id="polideportivo" type="checkbox" name="polideportivo" value="polideportivo" onchange="polideportivoHandle()">Polideportivos</input><br>
 </div>
 <div id="map-canvas"></div>
 </body>
