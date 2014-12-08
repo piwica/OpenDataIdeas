@@ -3,7 +3,7 @@
 <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <title>Remove an overlay</title>
+    <title>Simple icons</title>
     <style>
         html, body, #map-canvas {
             height: 100%;
@@ -12,54 +12,58 @@
         }
         #panel {
             position: absolute;
-            top: 5px;
-            left: 50%;
-            margin-left: -180px;
+            top: 25px;
+            right: 1%;
             z-index: 5;
             background-color: #fff;
             padding: 5px;
             border: 1px solid #999;
         }
     </style>
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false&libraries=visualization,geometry"></script>
+    <script src="javascripts/jquery.min.js"></script>
+    <script src="javascripts/mainmapas1.js"></script>
+    <script src="javascripts/StyledMarker.js" type="text/javascript"></script>
     <script>
-        // This example adds a UI control allowing users to remove the
-        // ground overlay from the map.
-
-        var historicalOverlay;
+        // This example adds a marker to indicate the position
+        // of Bondi Beach in Sydney, Australia
         var map;
-
         function initialize() {
-
-            var newark = new google.maps.LatLng(40.740, -74.18);
-            var imageBounds = new google.maps.LatLngBounds(
-                    new google.maps.LatLng(40.712216, -74.22655),
-                    new google.maps.LatLng(40.773941, -74.12544));
-
             var mapOptions = {
                 zoom: 13,
-                center: newark
-            };
-
+                center: new google.maps.LatLng(-34.6, -58.47)
+            }
             map = new google.maps.Map(document.getElementById('map-canvas'),
                     mapOptions);
 
-            historicalOverlay = new google.maps.GroundOverlay(
-                    'https://www.lib.utexas.edu/maps/historical/newark_nj_1922.jpg',
-                    imageBounds);
+            google.maps.event.addListener(map, 'zoom_changed', function () {
+                if (hospitalmarkers.length !== 0){
+                hospitalmarkers.setOptions({radius:getNewRadius(500)});
+                }
+                if (firemarkers.length !== 0){
+                firemarkers.setOptions({radius:getNewRadius(250)});
+                }if (cultura.length !== 0){
+                    cultura.setOptions({radius:getNewRadius(1500)});
+                }
+                if (metrobusmarkers.length !== 0){
+                    metrobusmarkers.setOptions({radius:getNewRadius(500)});
+                }
+                if (zonasverdesmarkers.length !== 0){
+                    zonasverdesmarkers.setOptions({radius:getNewRadius(500)});
+                }if (centrosverdesmarkers.length !== 0){
+                    centrosverdesmarkers.setOptions({radius:getNewRadius(500)});
+                }if (comisarias.length !== 0){
+                    comisarias.setOptions({radius:getNewRadius(1000)});
+                }if (educacion.length !== 0){
+                    educacion.setOptions({radius:getNewRadius(500)});
+                }if (polideportivos.length !== 0){
+                    polideportivos.setOptions({radius:getNewRadius(1500)});
+                }if (subte.length !== 0){
+                    subte.setOptions({radius:getNewRadius(500)});
+                }
+            });
 
-            addOverlay();
         }
-
-        function addOverlay() {
-            historicalOverlay.setMap(map);
-        }
-
-        // [START region_removal]
-        function removeOverlay() {
-            historicalOverlay.setMap(null);
-        }
-        // [END region_removal]
 
         google.maps.event.addDomListener(window, 'load', initialize);
 
@@ -67,8 +71,21 @@
 </head>
 <body>
 <div id="panel">
-    <input onclick="removeOverlay();" type=button value="Remove overlay">
-    <input onclick="addOverlay();" type=button value="Restore overlay">
+    <h3>Seguridad</h3>
+    <input id="emergencias" type="checkbox" name="emergencias" value="emergencias" onchange="emergenciasHandle()">Emergencias</input><br>
+    <input id="comisarias" type="checkbox" name="comisarias" value="comisarias" onchange="comisariasHandle()">Comisarias</input><br>
+    <h3>Servicios</h3>
+    <input id="hospital" type="checkbox" name="hospital" value="hospital" onchange="hospitalHandle()">Hospitales</input><br>
+    <input id="cultura" type="checkbox" name="cultura" value="cultura" onchange="culturaHandle()">Cultura</input><br>
+    <input id="educacion" type="checkbox" name="educacion" value="educacion" onchange="educacionHandle()">Estable. Educativos</input><br>
+    <h3>Transporte</h3>
+    <input id="metrobus" type="checkbox" name="metrobus" value="metrobus" onchange="metroBusHandle()">MetroBus</input><br>
+    <input id="subte" type="checkbox" name="subte" value="subte" onchange="subteHandle()">Subte</input><br>
+    <h3>Vida Sana</h3>
+    <input id="zonasverdes" type="checkbox" name="zonasverdes" value="zonasverdes" onchange="zonasVerdesHandle()">Zonas Verdes</input><br>
+    <input id="centrosverdes" type="checkbox" name="centrosverdes" value="centrosverdes" onchange="centrosVerdesHandle()">Centros Verdes</input><br>
+    <input id="ciclovias" type="checkbox" name="ciclovias" value="ciclovias" onchange="cicloviasHandle()">Ciclovias</input><br>
+    <input id="polideportivo" type="checkbox" name="polideportivo" value="polideportivo" onchange="polideportivoHandle()">Polideportivos</input><br>
 </div>
 <div id="map-canvas"></div>
 </body>
