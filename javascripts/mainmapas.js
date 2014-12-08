@@ -356,7 +356,7 @@ function processDataSubte(allText) {
                     position: myLatLng,
                     map: map});
 
-            subte   .push(marker);
+            subte.push(marker);
         }
     }
 }
@@ -368,11 +368,7 @@ function processDataPolideportivos(allText) {
         var data = allTextLines[i].split(';');
 
         var myLatLng = new google.maps.LatLng(data[1], data[0]);
-        var marker = new google.maps.Marker({
-            position: myLatLng,
-            map: map,
-            icon: image
-        });
+        var marker=add_marker(myLatLng, data[3], image);
         polideportivos.push(marker);
     }
 }
@@ -384,11 +380,7 @@ function processDataEducacion(allText) {
         var data = allTextLines[i].split(';');
 
         var myLatLng = new google.maps.LatLng(data[21], data[20]);
-        var marker = new google.maps.Marker({
-            position: myLatLng,
-            map: map,
-            icon: image
-        });
+        var marker=add_marker(myLatLng, data[7], image);
         educacion.push(marker);
     }
 }
@@ -400,11 +392,7 @@ function processDataComisarias(allText) {
         var data = allTextLines[i].split(';');
 
         var myLatLng = new google.maps.LatLng(data[7], data[6]);
-        var marker = new google.maps.Marker({
-            position: myLatLng,
-            map: map,
-            icon: image
-        });
+        var marker=add_marker(myLatLng, data[1], image);
         comisarias.push(marker);
     }
 }
@@ -437,11 +425,7 @@ function processDataCentrosVerdes(allText) {
         var data = allTextLines[i].split(';');
 
         var myLatLng = new google.maps.LatLng(data[10], data[9]);
-        var marker = new google.maps.Marker({
-            position: myLatLng,
-            map: map,
-            icon: image
-        });
+        var marker=add_marker(myLatLng, data[1], image);
         centrosverdesmarkers.push(marker);
     }
 }
@@ -453,11 +437,7 @@ function processDataZonasVerdes(allText) {
         var data = allTextLines[i].split(';');
 
         var myLatLng = new google.maps.LatLng(data[15], data[16]);
-        var marker = new google.maps.Marker({
-            position: myLatLng,
-            map: map,
-            icon: image
-        });
+        var marker=add_marker(myLatLng, data[5], image);
         zonasverdesmarkers.push(marker);
     }
 }
@@ -469,11 +449,7 @@ function processDataMetrobus(allText) {
         var data = allTextLines[i].split(';');
 
         var myLatLng = new google.maps.LatLng(data[7], data[6]);
-        var marker = new google.maps.Marker({
-            position: myLatLng,
-            map: map,
-            icon: image
-        });
+        var marker=add_marker(myLatLng, data[1], image);
         metrobusmarkers.push(marker);
     }
 }
@@ -494,11 +470,7 @@ function processDataCultura(allText) {
                 image = 'images/teatro.png';
             }
             var myLatLng = new google.maps.LatLng(data[18], data[17]);
-            var marker = new google.maps.Marker({
-                position: myLatLng,
-                map: map,
-                icon: image
-            });
+            var marker=add_marker(myLatLng, data[1], image);
             cultura.push(marker);
         }
 
@@ -525,12 +497,8 @@ function processDataEmergencias(allText) {
             image = 'images/lluvia.png';
         }
         var myLatLng = new google.maps.LatLng(data[2], data[1]);
-        var fireMarker = new google.maps.Marker({
-            position: myLatLng,
-            map: map,
-            icon: image
-        });
-        firemarkers.push(fireMarker);
+        var marker=add_marker(myLatLng, data[0], image);
+        firemarkers.push(marker);
     }
 }
 
@@ -541,11 +509,18 @@ function processDataHospital(allText) {
         var data = allTextLines[i].split(',');
 
         var myLatLng = new google.maps.LatLng(data[8], data[7]);
-        var fireMarker = new google.maps.Marker({
-            position: myLatLng,
-            map: map,
-            icon: image
-        });
-        hospitalmarkers.push(fireMarker);
+        var marker=add_marker(myLatLng, data[1], image);
+        hospitalmarkers.push(marker);
     }
+}
+
+function add_marker(point, note, icon) {
+    var $note = $("<div style='white-space: nowrap;'>"+note+"</div>");
+    var marker = new google.maps.Marker({map: map, position: point, clickable: true,icon:icon, title:note });
+    var infowindow = new google.maps.InfoWindow();
+    infowindow.setContent($note[0]);
+    google.maps.event.addListener(marker, 'click', function() {
+        infowindow.open(map, marker);
+    });
+    return marker;
 }
