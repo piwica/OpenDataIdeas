@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=32&nacionalidad=argentina&arma=otras&horario=mediodia&comuna=4&barrio=Parque Patricios&villa=no&numero=114&ejex=133.7&ejey=137.85&cantidad=1&lugar="via publica"&hora=13:30&fecha=05/12/2013

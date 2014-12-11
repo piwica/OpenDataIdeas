@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=31&nacionalidad=argentina&arma=otras&horario=noche&comuna=6&barrio=Caballito&villa=no&numero=63&ejex=-33.05&ejey=34.05&cantidad=1&lugar="via publica"&hora=20:00&fecha=21/12/2013

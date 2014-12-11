@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=39&nacionalidad=argentina&arma=sindatos&horario=madrugada&comuna=8&barrio=Villa Lugano&villa=no&numero=111&ejex=-229.15&ejey=350.3&cantidad=1&lugar="via publica"&hora=00:30&fecha=19/10/2013

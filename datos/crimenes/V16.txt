@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=40&nacionalidad=argentina&arma=fuego&horario=manana&comuna=4&barrio=Nueva Pompeya&villa=no&numero=16&ejex=57.7&ejey=200.75&cantidad=1&lugar="domicilio particular"&hora=08:00&fecha=09/07/2013

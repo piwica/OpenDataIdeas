@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Otros&sexo=Masculino&edad=40&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=7&barrio=Flores&villa=no&numero=67&ejex=-130.85&ejey=100.3&cantidad=1&lugar="via publica"&hora=01:00&fecha=24/12/2013

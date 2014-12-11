@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=38&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=8&barrio=Villa Lugano&villa=si&numero=62&ejex=-235.75&ejey=308.3&cantidad=1&lugar="via publica"&hora=01:05&fecha=20/12/2013

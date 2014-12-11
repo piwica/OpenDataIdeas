@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=61&nacionalidad=argentina&arma=blanca&horario=mediodia&comuna=14&barrio=Palermo&villa=no&numero=33&ejex=9.9&ejey=-300&cantidad=1&lugar="domicilio particular"&hora=12:00&fecha=18/08/2013

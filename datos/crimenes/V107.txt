@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=73&nacionalidad=argentina&arma=fuego&horario=noche&comuna=8&barrio=Villa Lugano&villa=si&numero=107&ejex=-237.85&ejey=287.55&cantidad=1&lugar="domicilio particular"&hora=23:00&fecha=15/02/2013

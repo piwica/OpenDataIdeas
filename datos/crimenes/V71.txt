@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=41&nacionalidad=argentina&arma=blanca&horario=manana&comuna=1&barrio=Monserrat&villa=no&numero=71&ejex=266.6&ejey=-17.1&cantidad=1&lugar="via publica"&hora=08:00&fecha=14/10/2013

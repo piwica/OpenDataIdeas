@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=27&nacionalidad=argentina&arma=blanca&horario=noche&comuna=11&barrio=Villa Devoto&villa=no&numero=54&ejex=-341.3&ejey=-19.2&cantidad=1&lugar="Unidad Penitenciaria"&hora=23:30&fecha=07/04/2013

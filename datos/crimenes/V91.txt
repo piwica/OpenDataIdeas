@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=20&nacionalidad=sindatos&arma=otras&horario=madrugada&comuna=15&barrio=Paternal&villa=no&numero=91&ejex=-121.3&ejey=-93.75&cantidad=1&lugar=otros&hora=03:30&fecha=24/12/2013

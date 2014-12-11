@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=27&nacionalidad=argentina&arma=fuego&horario=mediodia&comuna=7&barrio=Flores&villa=si&numero=104&ejex=0.9&ejey=157.9&cantidad=1&lugar="via publica"&hora=14:00&fecha=14/08/2013

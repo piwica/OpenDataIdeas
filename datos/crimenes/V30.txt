@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Femenino&edad=24&nacionalidad=argentina&arma=fuego&horario=mediodia&comuna=7&barrio=Flores&villa=si&numero=30&ejex=38.95&ejey=179.35&cantidad=1&lugar="via publica"&hora=17:20&fecha=24/09/2013

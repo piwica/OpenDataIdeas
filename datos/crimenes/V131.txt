@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=35&nacionalidad=argentina&arma=ninguna&horario=noche&comuna=1&barrio=Constitución&villa=no&numero=131&ejex=279.25&ejey=81.2&cantidad=1&lugar="via publica"&hora=21:30&fecha=15/01/2013

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=42&nacionalidad=china&arma=fuego&horario=manana&comuna=3&barrio=Balvanera&villa=no&numero=66&ejex=154.55&ejey=-19.4&cantidad=2&id=b&lugar="via publica"&hora=06:15&fecha=10/05/2013

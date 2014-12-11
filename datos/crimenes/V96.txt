@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Femenino&edad=36&nacionalidad=sindatos&arma=otras&horario=madrugada&comuna=7&barrio=Parque Chacabuco&villa=no&numero=96&ejex=30.7&ejey=135.4&cantidad=1&lugar="via publica"&hora=02:15&fecha=08/09/2013

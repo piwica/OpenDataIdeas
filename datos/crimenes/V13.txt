@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Legítima Defensa&sexo=Masculino&edad=17&nacionalidad=argentina&arma=fuego&horario=mediodia&comuna=8&barrio=Villa Lugano&villa=no&numero=13&ejex=-149.5&ejey=252.45&cantidad=1&lugar="via publica"&hora=12:30&fecha=04/11/2013

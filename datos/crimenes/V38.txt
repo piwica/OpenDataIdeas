@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=32&nacionalidad=boliviana&arma=fuego&horario=noche&comuna=8&barrio=Villa Soldati&villa=si&numero=38&ejex=-68.9&ejey=210.4&cantidad=1&lugar="via publica"&hora=20:30&fecha=23/01/2013

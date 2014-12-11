@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=24&nacionalidad=argentina&arma=fuego&horario=mediodia&comuna=8&barrio=Villa Soldati&villa=si&numero=128&ejex=-70.05&ejey=231.15&cantidad=1&lugar=otros&hora=16:00&fecha=14/10/2013

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=31&nacionalidad=argentina&arma=fuego&horario=noche&comuna=7&barrio=Parque Chacabuco&villa=no&numero=77&ejex=14.1&ejey=158.65&cantidad=1&lugar="via publica"&hora=23:00&fecha=22/12/2013

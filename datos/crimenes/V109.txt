@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Femenino&edad=18&nacionalidad=boliviana&arma=fuego&horario=mediodia&comuna=9&barrio=Parque Avellaneda&villa=si&numero=109&ejex=-157.15&ejey=230.2&cantidad=1&lugar="via publica"&hora=18:15&fecha=01/03/2013

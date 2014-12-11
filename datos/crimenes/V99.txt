@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=36&nacionalidad=argentina&arma=blanca&horario=manana&comuna=14&barrio=Palermo&villa=no&numero=99&ejex=29.25&ejey=-319.3&cantidad=1&lugar="via publica"&hora=06:00&fecha=01/04/2013

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=28&nacionalidad=argentina&arma=fuego&horario=manana&comuna=8&barrio=Villa Lugano&villa=no&numero=87&ejex=-158.15&ejey=299.85&cantidad=1&lugar="via publica"&hora=08:30&fecha=08/03/2013

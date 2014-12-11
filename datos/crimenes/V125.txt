@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=84&nacionalidad=argentina&arma=fuego&horario=noche&comuna=4&barrio=Nueva Pompeya&villa=no&numero=125&ejex=57.05&ejey=156&cantidad=1&lugar="via publica"&hora=20:40&fecha=23/03/2013

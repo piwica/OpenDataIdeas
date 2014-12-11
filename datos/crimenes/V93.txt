@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=32&nacionalidad=argentina&arma=fuego&horario=noche&comuna=4&barrio=Barracas&villa=si&numero=93&ejex=200.95&ejey=203.6&cantidad=1&lugar="via publica"&hora=21:30&fecha=23/01/2013

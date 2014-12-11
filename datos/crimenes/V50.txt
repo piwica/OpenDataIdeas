@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=65&nacionalidad=argentina&arma=blanca&horario=noche&comuna=11&barrio=Villa del Parque&villa=no&numero=50&ejex=-260.4&ejey=-106.4&cantidad=1&lugar="domicilio particular"&hora=20:00&fecha=04/06/2013

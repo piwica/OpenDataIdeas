@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Otros&sexo=Femenino&edad=21&nacionalidad=dominicana&arma=blanca&horario=manana&comuna=1&barrio=Constitución&villa=no&numero=147&ejex=269.05&ejey=64.6&cantidad=1&lugar="local publico"&hora=10:30&fecha=22/01/2013

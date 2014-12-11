@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=9&nacionalidad=argentina&arma=fuego&horario=manana&comuna=4&barrio=Barracas&villa=si&numero=26&ejex=204.25&ejey=199.7&cantidad=1&lugar="domicilio particular"&hora=09:00&fecha=07/09/2013

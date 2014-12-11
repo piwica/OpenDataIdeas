@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=24&nacionalidad=paraguaya&arma=fuego&horario=madrugada&comuna=8&barrio=Villa Lugano&villa=si&numero=51&ejex=-111.75&ejey=317.8&cantidad=1&lugar="via publica"&hora=02:00&fecha=31/08/2013

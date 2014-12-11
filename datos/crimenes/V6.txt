@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=27&nacionalidad=paraguaya&arma=blanca&horario=noche&comuna=8&barrio=Villa Lugano&villa=si&numero=6&ejex=-125.95&ejey=315.05&cantidad=1&lugar="via publica"&hora=20:30&fecha=22/09/2013

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=36&nacionalidad=argentina&arma=fuego&horario=mediodia&comuna=4&barrio=La Boca&villa=no&numero=17&ejex=379.25&ejey=97.2&cantidad=1&lugar="domicilio particular"&hora=15:15&fecha=26/04/2013

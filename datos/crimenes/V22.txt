@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=70&nacionalidad=argentina&arma=blanca&horario=madrugada&comuna=3&barrio=Balvanera&villa=no&numero=22&ejex=194&ejey=-24.05&cantidad=1&lugar="domicilio particular"&hora=03:00&fecha=23/03/2013

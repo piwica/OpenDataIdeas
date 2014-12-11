@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=25&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=4&barrio=Nueva Pompeya&villa=no&numero=76&ejex=91.1&ejey=217.05&cantidad=1&lugar="via publica"&hora=01:10&fecha=15/07/2013

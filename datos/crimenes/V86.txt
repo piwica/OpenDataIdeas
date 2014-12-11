@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=24&nacionalidad=paraguaya&arma=blanca&horario=madrugada&comuna=4&barrio=Barracas&villa=si&numero=86&ejex=203.05&ejey=213.75&cantidad=1&lugar="via publica"&hora=00:00&fecha=19/10/2013

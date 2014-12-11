@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=63&nacionalidad=paraguaya&arma=otras&horario=manana&comuna=8&barrio=Villa Soldati&villa=si&numero=134&ejex=-46.7&ejey=237.8&cantidad=1&lugar="via publica"&hora=07:20&fecha=22/12/2013

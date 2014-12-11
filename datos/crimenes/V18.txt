@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=27&nacionalidad=peruana&arma=blanca&horario=madrugada&comuna=3&barrio=San Cristóbal&villa=no&numero=18&ejex=160.7&ejey=39.3&cantidad=1&lugar="via publica"&hora=01:00&fecha=19/08/2013

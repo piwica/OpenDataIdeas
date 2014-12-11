@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Femenino&edad=54&nacionalidad=argentina&arma=ninguna&horario=manana&comuna=14&barrio=Palermo&villa=no&numero=32&ejex=135.5&ejey=-241.55&cantidad=1&lugar="domicilio particular"&hora=09:00&fecha=04/05/2013

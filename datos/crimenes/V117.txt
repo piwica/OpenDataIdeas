@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=33&nacionalidad=peruana&arma=fuego&horario=noche&comuna=4&barrio=Barracas&villa=si&numero=117&ejex=201.5&ejey=206.65&cantidad=1&lugar="via publica"&hora=21:20&fecha=26/01/2013

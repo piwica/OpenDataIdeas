@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Violencia Intrafamiliar&sexo=Masculino&edad=39&nacionalidad=uruguaya&arma=blanca&horario=noche&comuna=9&barrio=Liniers&villa=no&numero=121&ejex=-390.3&ejey=177.75&cantidad=1&lugar="via publica"&hora=22:30&fecha=26/11/2013

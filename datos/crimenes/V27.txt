@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Intervención Policial&sexo=Masculino&edad=27&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=4&barrio=Barracas&villa=no&numero=27&ejex=309.1&ejey=87.6&cantidad=1&lugar="via publica"&hora=05:40&fecha=22/06/2013

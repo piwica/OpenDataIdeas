@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=18&nacionalidad=argentina&arma=blanca&horario=sindatos&comuna=4&barrio=Barracas&villa=si&numero=85&ejex=199&ejey=202.95&cantidad=1&lugar="via publica"&hora=&fecha=21/11/2013

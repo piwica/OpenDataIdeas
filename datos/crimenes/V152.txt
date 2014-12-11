@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=36&nacionalidad=argentina&arma=ninguna&horario=sindatos&comuna=9&barrio=Liniers&villa=no&numero=152&ejex=-356.9&ejey=93.3&cantidad=1&lugar="local publico"&hora=&fecha=09/04/2013

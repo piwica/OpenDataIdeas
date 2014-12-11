@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=24&nacionalidad=argentina&arma=blanca&horario=mediodia&comuna=4&barrio=Barracas&villa=si&numero=75&ejex=209.8&ejey=200.4&cantidad=1&lugar="via publica"&hora=14:30&fecha=08/04/2013

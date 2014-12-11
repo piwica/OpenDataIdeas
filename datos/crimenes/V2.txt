@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=28&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=6&barrio=Caballito&villa=no&numero=2&ejex=-14.75&ejey=-27.5&cantidad=1&lugar="via publica"&hora=01:45&fecha=14/04/2012

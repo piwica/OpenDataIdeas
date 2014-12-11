@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=46&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=12&barrio=Saavedra&villa=no&numero=145&ejex=-196.35&ejey=-375.95&cantidad=1&lugar="domicilio particular"&hora=00:00&fecha=23/10/2013

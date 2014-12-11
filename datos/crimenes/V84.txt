@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Femenino&edad=41&nacionalidad=boliviana&arma=ninguna&horario=madrugada&comuna=7&barrio=Flores&villa=si&numero=84&ejex=4.15&ejey=174&cantidad=1&lugar=comercio&hora=03:00&fecha=07/05/2013

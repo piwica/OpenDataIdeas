@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=28&nacionalidad=argentina&arma=blanca&horario=mediodia&comuna=7&barrio=Flores&villa=no&numero=112&ejex=-143.35&ejey=24.8&cantidad=1&lugar="via publica"&hora=13:35&fecha=13/06/2013

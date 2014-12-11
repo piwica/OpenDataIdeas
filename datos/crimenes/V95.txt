@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=19&nacionalidad=argentina&arma=fuego&horario=mediodia&comuna=11&barrio=Villa Devoto&villa=no&numero=95&ejex=-391.2&ejey=-75.1&cantidad=1&lugar="via publica"&hora=19:50&fecha=07/06/2013

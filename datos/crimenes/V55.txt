@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=25&nacionalidad=argentina&arma=otras&horario=mediodia&comuna=1&barrio=Constitución&villa=no&numero=55&ejex=289.3&ejey=63.8&cantidad=1&lugar="via publica"&hora=19:30&fecha=02/05/2013

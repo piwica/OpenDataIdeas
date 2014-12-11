@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=73&nacionalidad=paraguaya&arma=fuego&horario=mediodia&comuna=8&barrio=Villa Soldati&villa=si&numero=34&ejex=-61.85&ejey=224.25&cantidad=1&lugar="domicilio particular"&hora=17:00&fecha=28/11/2013

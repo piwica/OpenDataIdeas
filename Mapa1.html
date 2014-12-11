@@ -60,6 +60,8 @@
                     polideportivos.setOptions({radius:getNewRadius(1500)});
                 }if (subte.length !== 0){
                     subte.setOptions({radius:getNewRadius(500)});
+                }if (crimenes.length !== 0){
+                    crimenes.setOptions({radius:getNewRadius(500)});
                 }
             });
 
@@ -73,6 +75,7 @@
 <div id="panel">
     <h3>Seguridad</h3>
     <input id="emergencias" type="checkbox" name="emergencias" value="emergencias" onchange="emergenciasHandle()">Emergencias</input><br>
+    <input id="crimenes" type="checkbox" name="crimenes" value="crimenes" onchange="crimenesHandle()">Crimenes 2013</input><br>
     <input id="comisarias" type="checkbox" name="comisarias" value="comisarias" onchange="comisariasHandle()">Comisarias</input><br>
     <h3>Servicios</h3>
     <input id="hospital" type="checkbox" name="hospital" value="hospital" onchange="hospitalHandle()">Hospitales</input><br>

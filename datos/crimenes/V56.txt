@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=37&nacionalidad=colombiana&arma=fuego&horario=noche&comuna=13&barrio=Colegiales&villa=no&numero=56&ejex=-47.25&ejey=-239.35&cantidad=1&lugar="via publica"&hora=23:00&fecha=27/04/2013

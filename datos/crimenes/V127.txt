@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=35&nacionalidad=argentina&arma=fuego&horario=noche&comuna=8&barrio=Villa Lugano&villa=no&numero=127&ejex=-231.75&ejey=351.15&cantidad=1&lugar="via publica"&hora=22:30&fecha=09/09/2013

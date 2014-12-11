@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=28&nacionalidad=uruguaya&arma=blanca&horario=manana&comuna=7&barrio=Flores&villa=si&numero=120&ejex=-17.85&ejey=143.8&cantidad=1&lugar="via publica"&hora=07:00&fecha=14/04/2013

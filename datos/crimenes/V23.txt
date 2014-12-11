@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Violencia Intrafamiliar&sexo=Masculino&edad=9&nacionalidad=argentina&arma=ninguna&horario=mediodia&comuna=1&barrio=Retiro&villa=si&numero=23&ejex=283.15&ejey=-205.9&cantidad=1&lugar="domicilio particular"&hora=13:50&fecha=30/11/2013

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=32&nacionalidad=argentina&arma=otras&horario=madrugada&comuna=11&barrio=Villa del Parque&villa=no&numero=110&ejex=-236.5&ejey=-90.45&cantidad=1&lugar="local publico"&hora=02:00&fecha=24/01/2013

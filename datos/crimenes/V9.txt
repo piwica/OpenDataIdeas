@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Violencia Intrafamiliar&sexo=Masculino&edad=22&nacionalidad=argentina&arma=otras&horario=mediodia&comuna=8&barrio=Villa Lugano&villa=si&numero=9&ejex=-198.45&ejey=368.5&cantidad=1&lugar="domicilio particular"&hora=18:30&fecha=12/07/2013

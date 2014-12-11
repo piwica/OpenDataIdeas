@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Otros&sexo=Femenino&edad=16&nacionalidad=argentina&arma=ninguna&horario=manana&comuna=14&barrio=Palermo&villa=no&numero=81&ejex=33.9&ejey=-235.85&cantidad=1&lugar="domicilio particular"&hora=09:45&fecha=10/06/2013

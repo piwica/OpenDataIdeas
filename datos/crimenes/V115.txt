@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=32&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=4&barrio=Barracas&villa=si&numero=115&ejex=174.6&ejey=184.3&cantidad=1&lugar="via publica"&hora=00:30&fecha=05/12/2013

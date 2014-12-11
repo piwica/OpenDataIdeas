@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=24&nacionalidad=argentina&arma=fuego&horario=noche&comuna=15&barrio=Villa Crespo&villa=no&numero=135&ejex=-39.15&ejey=-88.95&cantidad=1&lugar="via publica"&hora=21:00&fecha=17/05/2013

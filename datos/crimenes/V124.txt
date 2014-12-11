@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=21&nacionalidad=paraguaya&arma=fuego&horario=noche&comuna=7&barrio=Flores&villa=si&numero=124&ejex=17.8&ejey=173.75&cantidad=1&lugar="domicilio particular"&hora=23:00&fecha=06/03/2013

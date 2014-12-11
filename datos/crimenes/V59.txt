@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=25&nacionalidad=peruana&arma=fuego&horario=madrugada&comuna=7&barrio=Flores&villa=si&numero=59&ejex=-3.45&ejey=157.5&cantidad=1&lugar="via publica"&hora=02:45&fecha=23/12/2013

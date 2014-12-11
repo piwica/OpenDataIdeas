@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Violencia Intrafamiliar&sexo=Masculino&edad=67&nacionalidad=argentina&arma=ninguna&horario=noche&comuna=1&barrio=Constitución&villa=no&numero=21&ejex=277.3&ejey=14.55&cantidad=1&lugar="via publica"&hora=20:00&fecha=26/11/2013

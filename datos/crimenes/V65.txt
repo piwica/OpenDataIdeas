@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=43&nacionalidad=peruana&arma=fuego&horario=mediodia&comuna=1&barrio=Constitución&villa=no&numero=65&ejex=267.7&ejey=63&cantidad=1&lugar="domicilio particular"&hora=19:00&fecha=26/06/2013

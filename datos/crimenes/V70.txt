@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=46&nacionalidad=dominicana&arma=blanca&horario=noche&comuna=1&barrio=Constitución&villa=no&numero=70&ejex=259.45&ejey=20.6&cantidad=1&lugar="via publica"&hora=21:00&fecha=10/10/2013

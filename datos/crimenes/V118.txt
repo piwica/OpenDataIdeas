@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=23&nacionalidad=sindatos&arma=blanca&horario=madrugada&comuna=4&barrio=Barracas&villa=si&numero=118&ejex=213.9&ejey=204.35&cantidad=1&lugar="via publica"&hora=02:40&fecha=15/04/2013

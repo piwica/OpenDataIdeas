@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=42&nacionalidad=argentina&arma=otras&horario=mediodia&comuna=9&barrio=Mataderos&villa=no&numero=130&ejex=-223.75&ejey=254.95&cantidad=1&lugar="domicilio particular"&hora=15:00&fecha=05/06/2013

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Otros&sexo=Masculino&edad=22&nacionalidad=peruana&arma=fuego&horario=madrugada&comuna=8&barrio=Villa Soldati&villa=si&numero=144&ejex=-83.65&ejey=219.3&cantidad=1&lugar="via publica"&hora=00:20&fecha=10/04/2013

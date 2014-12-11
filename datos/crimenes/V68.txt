@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=25&nacionalidad=colombiana&arma=fuego&horario=noche&comuna=5&barrio=Almagro&villa=no&numero=68&ejex=108.8&ejey=-42.8&cantidad=1&lugar=comercio&hora=23:45&fecha=15/08/2013

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=14&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=4&barrio=Nueva Pompeya&villa=no&numero=116&ejex=122.9&ejey=169.8&cantidad=1&lugar="via publica"&hora=00:10&fecha=01/10/2013

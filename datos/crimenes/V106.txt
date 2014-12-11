@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Legítima Defensa&sexo=Masculino&edad=43&nacionalidad=argentina&arma=fuego&horario=manana&comuna=7&barrio=Flores&villa=si&numero=106&ejex=45.8&ejey=178.4&cantidad=1&lugar="via publica"&hora=08:10&fecha=10/07/2013

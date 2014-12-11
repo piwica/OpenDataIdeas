@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=31&nacionalidad=paraguaya&arma=fuego&horario=noche&comuna=7&barrio=Flores&villa=si&numero=123&ejex=14.35&ejey=174.2&cantidad=1&lugar="via publica"&hora=21:30&fecha=27/07/2013

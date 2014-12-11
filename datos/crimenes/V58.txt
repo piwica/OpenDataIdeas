@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=71&nacionalidad=española&arma=otras&horario=mediodia&comuna=9&barrio=Liniers&villa=no&numero=58&ejex=-393.5&ejey=129.3&cantidad=1&lugar=comercio&hora=18:30&fecha=02/07/2013

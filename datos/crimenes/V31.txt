@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=62&nacionalidad=argentina&arma=sindatos&horario=madrugada&comuna=14&barrio=Palermo&villa=no&numero=31&ejex=29.25&ejey=-189.35&cantidad=1&lugar="via publica"&hora=04:00&fecha=23/05/2013

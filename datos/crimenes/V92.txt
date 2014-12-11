@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=30&nacionalidad=argentina&arma=blanca&horario=sindatos&comuna=4&barrio=Barracas&villa=si&numero=92&ejex=201.05&ejey=215.4&cantidad=1&lugar="via publica"&hora=&fecha=07/08/2013

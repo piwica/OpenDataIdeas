@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=45&nacionalidad=argentina&arma=fuego&horario=noche&comuna=12&barrio=Villa Pueyrredón&villa=no&numero=36&ejex=-305.15&ejey=-189.6&cantidad=1&lugar="via publica"&hora=20:20&fecha=26/03/2013

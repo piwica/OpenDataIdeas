@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Violencia Intrafamiliar&sexo=Masculino&edad=37&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=12&barrio=Villa Urquiza&villa=no&numero=25&ejex=-190.55&ejey=-284.2&cantidad=1&lugar="via publica"&hora=03:40&fecha=10/04/2013

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=30&nacionalidad=paraguaya&arma=otras&horario=noche&comuna=11&barrio=Villa Santa Rita&villa=no&numero=52&ejex=-190.7&ejey=-47.3&cantidad=1&lugar="domicilio particular"&hora=23:30&fecha=20/10/2013

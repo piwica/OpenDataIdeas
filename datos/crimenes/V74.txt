@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=29&nacionalidad=argentina&arma=fuego&horario=mediodia&comuna=4&barrio=Barracas&villa=si&numero=74&ejex=209.1&ejey=199.5&cantidad=1&lugar="via publica"&hora=16:00&fecha=01/07/2013

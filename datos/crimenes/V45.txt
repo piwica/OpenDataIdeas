@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=30&nacionalidad=colombiana&arma=ninguna&horario=madrugada&comuna=4&barrio=Barracas&villa=no&numero=45&ejex=323.5&ejey=53.95&cantidad=1&lugar="domicilio particular"&hora=00:30&fecha=23/06/2013

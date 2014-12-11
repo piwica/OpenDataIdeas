@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=36&nacionalidad=argentina&arma=fuego&horario=noche&comuna=9&barrio=Mataderos&villa=no&numero=105&ejex=-235.35&ejey=220.3&cantidad=1&lugar="via publica"&hora=22:00&fecha=06/02/2013

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=24&nacionalidad=peruana&arma=ninguna&horario=madrugada&comuna=4&barrio=Nueva Pompeya&villa=no&numero=19&ejex=111.75&ejey=153.15&cantidad=1&lugar="via publica"&hora=05:30&fecha=16/11/2013

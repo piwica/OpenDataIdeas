@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=54&nacionalidad=argentina&arma=blanca&horario=manana&comuna=15&barrio=Paternal&villa=no&numero=39&ejex=-111.6&ejey=-104.2&cantidad=1&lugar="via publica"&hora=06:00&fecha=16/06/2013

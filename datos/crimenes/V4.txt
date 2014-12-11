@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Otros&sexo=Femenino&edad=29&nacionalidad=argentina&arma=ninguna&horario=mediodia&comuna=1&barrio=San Telmo&villa=no&numero=4&ejex=319.6&ejey=-10.65&cantidad=1&lugar="domicilio particular"&hora=17:00&fecha=03/10/2013

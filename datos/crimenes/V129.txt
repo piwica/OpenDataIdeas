@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=79&nacionalidad=argentina&arma=ninguna&horario=sindatos&comuna=13&barrio=Núñez&villa=no&numero=129&ejex=-93.55&ejey=-365.9&cantidad=1&lugar="domicilio particular"&hora=&fecha=28/04/2013

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=31&nacionalidad=paraguaya&arma=fuego&horario=madrugada&comuna=1&barrio=Retiro&villa=si&numero=41&ejex=282.25&ejey=-198.4&cantidad=1&lugar="via publica"&hora=02:00&fecha=09/11/2013

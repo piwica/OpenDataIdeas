@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=42&nacionalidad=argentina&arma=otras&horario=madrugada&comuna=2&barrio=Recoleta&villa=no&numero=88&ejex=214.5&ejey=-121.7&cantidad=1&lugar="local publico"&hora=01:00&fecha=04/11/2013

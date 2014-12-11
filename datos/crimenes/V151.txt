@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Intervención Policial&sexo=Masculino&edad=17&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=9&barrio=Mataderos&villa=no&numero=151&ejex=-236.35&ejey=226.7&cantidad=1&lugar="via publica"&hora=01:00&fecha=16/06/2013

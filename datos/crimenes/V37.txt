@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=65&nacionalidad=paraguaya&arma=fuego&horario=mediodia&comuna=8&barrio=Villa Lugano&villa=no&numero=37&ejex=-204.5&ejey=387.25&cantidad=1&lugar="via publica"&hora=15:00&fecha=12/08/2013

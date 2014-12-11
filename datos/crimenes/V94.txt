@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=24&nacionalidad=argentina&arma=fuego&horario=noche&comuna=4&barrio=Parque Patricios&villa=no&numero=94&ejex=143.1&ejey=144.5&cantidad=1&lugar="sin datos"&hora=20:00&fecha=24/12/2013

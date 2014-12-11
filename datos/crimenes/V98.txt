@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=24&nacionalidad=paraguaya&arma=blanca&horario=noche&comuna=4&barrio=Barracas&villa=si&numero=98&ejex=180.3&ejey=205.75&cantidad=1&lugar="via publica"&hora=22:45&fecha=10/10/2013

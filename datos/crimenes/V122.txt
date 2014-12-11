@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=45&nacionalidad=peruana&arma=blanca&horario=mediodia&comuna=15&barrio=Paternal&villa=si&numero=122&ejex=-127.75&ejey=-112.9&cantidad=1&lugar="via publica"&hora=18:00&fecha=10/06/2013

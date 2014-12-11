@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=58&nacionalidad=china&arma=fuego&horario=madrugada&comuna=9&barrio=Parque Avellaneda&villa=no&numero=137&ejex=-176.55&ejey=131.15&cantidad=1&lugar="domicilio particular"&hora=01:00&fecha=04/02/2013

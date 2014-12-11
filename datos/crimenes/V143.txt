@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Violencia Intrafamiliar&sexo=Femenino&edad=26&nacionalidad=argentina&arma=blanca&horario=mediodia&comuna=10&barrio=Villa Luro&villa=no&numero=143&ejex=-326.55&ejey=78.35&cantidad=1&lugar="domicilio particular"&hora=12:45&fecha=09/02/2013

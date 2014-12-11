@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Robo&sexo=Masculino&edad=59&nacionalidad=argentina&arma=otras&horario=sindatos&comuna=8&barrio=Villa Lugano&villa=no&numero=43&ejex=-152.45&ejey=356.1&cantidad=1&lugar="domicilio particular"&hora=&fecha=08/09/2013

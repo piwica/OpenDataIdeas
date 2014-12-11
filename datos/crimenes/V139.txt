@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=20&nacionalidad=argentina&arma=fuego&horario=noche&comuna=8&barrio=Villa Lugano&villa=no&numero=139&ejex=-85.6&ejey=380.4&cantidad=1&lugar="via publica"&hora=22:30&fecha=28/11/2013

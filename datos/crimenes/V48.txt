@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=34&nacionalidad=boliviana&arma=blanca&horario=madrugada&comuna=9&barrio=Liniers&villa=no&numero=48&ejex=-407.55&ejey=113.5&cantidad=1&lugar=comercio&hora=01:00&fecha=15/06/2013

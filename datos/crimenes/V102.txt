@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=18&nacionalidad=argentina&arma=fuego&horario=noche&comuna=4&barrio=Barracas&villa=si&numero=102&ejex=204.05&ejey=208.95&cantidad=1&lugar="via publica"&hora=22:00&fecha=20/01/2013

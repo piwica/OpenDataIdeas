@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=28&nacionalidad=argentina&arma=fuego&horario=noche&comuna=9&barrio=Liniers&villa=no&numero=80&ejex=-405.75&ejey=144.95&cantidad=1&lugar="via publica"&hora=23:30&fecha=23/06/2013

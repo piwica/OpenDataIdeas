@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=33&nacionalidad=china&arma=fuego&horario=noche&comuna=4&barrio=Parque Patricios&villa=no&numero=46&ejex=209.8&ejey=97.2&cantidad=1&lugar="via publica"&hora=22:00&fecha=31/10/2013

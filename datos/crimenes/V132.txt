@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=36&nacionalidad=argentina&arma=fuego&horario=noche&comuna=15&barrio=Villa Ortúzar&villa=no&numero=132&ejex=-104.15&ejey=-202.45&cantidad=1&lugar="via publica"&hora=20:30&fecha=07/06/2013

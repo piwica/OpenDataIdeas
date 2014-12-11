@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Femenino&edad=84&nacionalidad=española&arma=ninguna&horario=mediodia&comuna=7&barrio=Flores&villa=no&numero=35&ejex=-114.05&ejey=83.05&cantidad=1&lugar=comercio&hora=15:00&fecha=26/02/2013

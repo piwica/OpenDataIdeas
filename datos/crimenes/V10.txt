@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Legítima Defensa&sexo=Masculino&edad=39&nacionalidad=china&arma=blanca&horario=madrugada&comuna=15&barrio=Chacarita&villa=no&numero=10&ejex=-75.85&ejey=-211.2&cantidad=1&lugar=comercio&hora=01:30&fecha=26/02/2013

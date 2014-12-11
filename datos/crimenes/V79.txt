@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Violencia Intrafamiliar&sexo=Masculino&edad=39&nacionalidad=argentina&arma=blanca&horario=noche&comuna=14&barrio=Palermo&villa=no&numero=79&ejex=84.45&ejey=-124.8&cantidad=1&lugar="domicilio particular"&hora=20:45&fecha=25/07/2013

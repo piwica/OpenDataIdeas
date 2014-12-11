@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=Discusión / Riña / Venganza&sexo=Masculino&edad=28&nacionalidad=argentina&arma=blanca&horario=mediodia&comuna=14&barrio=Palermo&villa=no&numero=5&ejex=97.75&ejey=-215.75&cantidad=1&lugar="via publica"&hora=15:40&fecha=03/11/2013

@@ -15,6 +15,7 @@ var cultura = [];
 var educacion = [];
 var polideportivos = [];
 var subte = [];
+var crimenes = [];
 
 function emergenciasHandle() {
     var isChecked = $('#emergencias').is(":checked");
@@ -136,6 +137,16 @@ function polideportivoHandle() {
 
 }
 
+function crimenesHandle() {
+    var isChecked = $('#crimenes').is(":checked");
+    if (isChecked) {
+        leerArchivoCrimenes();
+    } else {
+        crimenes.setMap(null);
+    }
+
+}
+
 function leerArchivoSubte() {
     $.ajax({
         type: "GET",
@@ -143,6 +154,40 @@ function leerArchivoSubte() {
         dataType: "text",
         success: function (data) {
             processDataSubte(data);
+        }
+    });
+
+}
+function leerArchivoCrimenes() {
+    $.ajax({
+        type: "GET",
+        url: "datos/crimenes/indexV.xml",
+        dataType: "xml",
+        success: function (xml) {
+            $(xml).find('mc').each(function(){
+                $.ajax({
+                    type: "GET",
+                    url: "datos/crimenes/"+$(this).text()+".txt",
+                    dataType: "text",
+                    success: function (data) {
+                        processDataCrimen(data);
+                        /*var pointArray = new google.maps.MVCArray(crimenes);
+                        var gradient = [
+                            'rgba(255,255,255,0)',
+                            'rgba(0,0,0,1)'
+                        ];
+                        console.log(crimenes);
+                        cosa = new google.maps.visualization.HeatmapLayer({
+                            data: pointArray,
+                            radius: getNewRadius(500),
+                            gradient: gradient,
+                            opacity:1
+                        });
+                        cosa.setMap(map);*/
+                    }
+                });
+            });
+
         }
     });
 
@@ -267,6 +312,33 @@ function leerArchivoCiclovias() {
             processDataCiclovias(data);
         }
     });
+}
+
+function processDataCrimen(allText) {
+    var allTextLines = allText.split("&");
+    var lat, lon;
+    for (var i = 1; i < allTextLines.length; i++) {
+        if (allTextLines[i].indexOf("ejex")>-1){
+            lon = allTextLines[i].replace('ejex=', '');
+        }
+        if (allTextLines[i].indexOf("ejey")>-1){
+            lat = allTextLines[i].replace('ejey=', '');
+        }
+
+
+    }
+    lat = lat/6500 -34.608;
+    lon = lon/5500 -58.448;
+    console.log(lat+","+lon);
+    var myLatLng = new google.maps.LatLng(lat, lon);
+    //crimenes.push(myLatLng);
+    var styleIconClass = new StyledIcon(StyledIconTypes.CLASS, {color: "#FF0000"});
+    var marker = new StyledMarker(
+        {styleIcon: new StyledIcon(StyledIconTypes.MARKER, {text: ""}, styleIconClass),
+            position: myLatLng,
+            map: map});
+
+    crimenes.push(marker);
 }
 
 function processDataSubte(allText) {

@@ -1,0 +1,1 @@
+estado=A&victimavictimario=victima&movil=S/D&sexo=Masculino&edad=37&nacionalidad=argentina&arma=fuego&horario=madrugada&comuna=9&barrio=Parque Avellaneda&villa=no&numero=90&ejex=-173.65&ejey=211.7&cantidad=1&lugar="domicilio particular"&hora=04:00&fecha=05/05/2013
